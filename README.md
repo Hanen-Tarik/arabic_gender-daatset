@@ -1,0 +1,1 @@
+if you use this dataset, please cite : Himdi, H.; Shaalan, K. Advancing Author Gender Identification in Modern Standard Arabic with Innovative Deep Learning and Textual Feature Techniques. Information 2024, 15, 779. https://doi.org/10.3390/info15120779
